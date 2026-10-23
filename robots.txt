@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://abailbonds2.com/sitemap.xml
