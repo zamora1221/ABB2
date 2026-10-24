@@ -1,48 +1,129 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://abailbonds2.com/</loc>
-    <lastmod>2026-10-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://abailbonds2.com/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://abailbonds2.com/es/"/>
+    <lastmod>2026-10-23</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://abailbonds2.com/es/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://abailbonds2.com/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://abailbonds2.com/es/"/>
+    <lastmod>2026-10-23</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://abailbonds2.com/to-close-a-warrant.html</loc>
-    <lastmod>2026-10-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://abailbonds2.com/to-close-a-warrant.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://abailbonds2.com/es/to-close-a-warrant.html"/>
+    <lastmod>2026-10-23</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abailbonds2.com/es/to-close-a-warrant.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://abailbonds2.com/to-close-a-warrant.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://abailbonds2.com/es/to-close-a-warrant.html"/>
+    <lastmod>2026-10-23</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://abailbonds2.com/contact.html</loc>
-    <lastmod>2026-10-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://abailbonds2.com/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://abailbonds2.com/es/contact.html"/>
+    <lastmod>2026-10-23</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abailbonds2.com/es/contact.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://abailbonds2.com/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://abailbonds2.com/es/contact.html"/>
+    <lastmod>2026-10-23</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://abailbonds2.com/post-a-bond.html</loc>
-    <lastmod>2026-10-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://abailbonds2.com/post-a-bond.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://abailbonds2.com/es/post-a-bond.html"/>
+    <lastmod>2026-10-23</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abailbonds2.com/es/post-a-bond.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://abailbonds2.com/post-a-bond.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://abailbonds2.com/es/post-a-bond.html"/>
+    <lastmod>2026-10-23</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://abailbonds2.com/policies.html</loc>
-    <lastmod>2026-10-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://abailbonds2.com/policies.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://abailbonds2.com/es/policies.html"/>
+    <lastmod>2026-10-23</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://abailbonds2.com/es/policies.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://abailbonds2.com/policies.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://abailbonds2.com/es/policies.html"/>
+    <lastmod>2026-10-23</lastmod>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://abailbonds2.com/cosigner-forms.html</loc>
-    <lastmod>2026-10-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://abailbonds2.com/cosigner-forms.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://abailbonds2.com/es/cosigner-forms.html"/>
+    <lastmod>2026-10-23</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://abailbonds2.com/es/cosigner-forms.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://abailbonds2.com/cosigner-forms.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://abailbonds2.com/es/cosigner-forms.html"/>
+    <lastmod>2026-10-23</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://abailbonds2.com/defendant-forms.html</loc>
-    <lastmod>2026-10-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://abailbonds2.com/defendant-forms.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://abailbonds2.com/es/defendant-forms.html"/>
+    <lastmod>2026-10-23</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://abailbonds2.com/es/defendant-forms.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://abailbonds2.com/defendant-forms.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://abailbonds2.com/es/defendant-forms.html"/>
+    <lastmod>2026-10-23</lastmod>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://abailbonds2.com/bond-payment.html</loc>
-    <lastmod>2026-10-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://abailbonds2.com/bond-payment.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://abailbonds2.com/es/bond-payment.html"/>
+    <lastmod>2026-10-23</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://abailbonds2.com/es/bond-payment.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://abailbonds2.com/bond-payment.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://abailbonds2.com/es/bond-payment.html"/>
+    <lastmod>2026-10-23</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://abailbonds2.com/check-in.html</loc>
-    <lastmod>2026-10-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://abailbonds2.com/check-in.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://abailbonds2.com/es/check-in.html"/>
+    <lastmod>2026-10-23</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://abailbonds2.com/es/check-in.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://abailbonds2.com/check-in.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://abailbonds2.com/es/check-in.html"/>
+    <lastmod>2026-10-23</lastmod>
     <priority>0.5</priority>
   </url>
 </urlset>
