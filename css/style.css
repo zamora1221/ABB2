@@ -34,7 +34,7 @@ header{ position:sticky; top:0; z-index:50; background:var(--white); }
 .contact-line .row a{text-decoration:none;}
 .contact-line .row a:hover{text-decoration:underline;}
 .contact-line span{font-size:1rem; font-weight:600; color:var(--black);}
-@media (max-width:720px){ .contact-line{align-items:flex-start;} .contact-line .row a:not(:first-child){display:none;} }
+@media (max-width:720px){ .contact-line{align-items:flex-start;} .contact-line .row a:not(:first-child):not(.lang-switch){display:none;} }
 
 nav{background:var(--black);}
 .navwrap{ max-width:1180px; margin:0 auto; padding:0 24px; display:flex; flex-wrap:wrap; }
@@ -232,3 +232,7 @@ footer{ border-top:0; }
   .hero-art{ box-shadow:8px 8px 0 var(--black); }
   .service, .info-card, .jotform-embed{ box-shadow:6px 6px 0 var(--black); }
 }
+
+/* ---------- LANGUAGE SWITCH ---------- */
+.contact-line .row a.lang-switch{ border:3px solid var(--black); padding:5px 12px; font-weight:800; font-size:0.95rem; background:var(--white); color:var(--black); }
+.contact-line .row a.lang-switch:hover{ background:var(--black); color:var(--white); text-decoration:none; }
